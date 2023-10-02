@@ -209,7 +209,12 @@ get_recommendations('christmas cake', cosine_sim2)
 ##Data Prep
 """
 
-!pip install scikit-surprise
+pip install -r requirements.txt
+import pickle
+import streamlit as st
+streamlit
+scikit-surprise
+... (any other libraries you're using)
 
 import surprise
 surprise.__version__
